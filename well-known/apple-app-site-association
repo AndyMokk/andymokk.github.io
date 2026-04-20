@@ -1,0 +1,9 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [{
+      "appIDs": ["D3839MRL3B.com.andymo.tapremind"],
+      "paths": ["/tapremind-links/s/*"]
+    }]
+  }
+}
