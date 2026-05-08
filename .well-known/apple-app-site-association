@@ -1,9 +1,20 @@
 {
   "applinks": {
-    "apps": [],
-    "details": [{
-      "appIDs": ["QZ7W33G745.com.andymo.tapremind"],
-      "paths": ["/tapremind-links/s/*"]
-    }]
+    "details": [
+      {
+        "appIDs": [
+          "QZ7W33G745.com.andymo.aetherFocus"
+        ],
+        "components": [
+          {
+            "/": "/start*",
+            "comment": "Matches links like /start?mode=deepwork"
+          }
+        ]
+      }
+    ]
   }
 }
+
+
+
